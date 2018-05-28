@@ -1,0 +1,26 @@
+A jatek szabalyai ekezetek nelkul:
+Egy jatekosnak negy azonos szinu babuja van, ezek a jatek kezdeten
+a bazison talalhatok.
+A jatek celja mind a negy figurat a palyan korbejaratva eljuttatni
+a palya kozepen levo kis teruletre, a celba.
+A jatekosok egy kockaval dobnak.
+Egy babut az azonos szinnel jelolt startmezon at kell jatekba
+hozni. Erre akkor van lehetoseg, ha a jatekos hatost dob.
+Ha a startmezon babu all, akkor oda nem teheto ki ujabb babu.
+A jatekos a dobas utan a babujaval a megfelelo szamu mezot lep
+menetiranyba.
+Amikor tobb babuja van a palyan, akkor eldontheti, hogy melyikkel
+lep.
+Ha egy babu korbeert a palyan, akkor a sajat startmezoje elott
+befordul az azonos szinu celba.
+A jatekos nem lephet a babujaval ugy, hogy vegul olyan mezon alljon
+meg, amelyen sajat babuja van.
+Ha nincs mas lepeslehetosege, akkor a jatekos nem lep.
+Ha a jatekos egy babuval olyan mezore lep, amelyen egy masik szinu
+babu van, akkor azt a babut kiuti, es az a megfelelo szinu, palyan
+kivuli bazisra kerul, es a szabaly szerint kerulhet ujra jatekba.
+A startmezon allo babu nem utheto ki.
+A jatekos taktikai lehetosegei arra szoritkoznak, hogy mikor melyik
+babuval lep, illetve hatos dobas eseten jatekba hozza-e egy
+babujat.
+Forras: Wikipedia
