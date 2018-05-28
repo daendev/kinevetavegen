@@ -3,6 +3,11 @@
 
 ### Fordítás
 A fordításhoz SDL1.2 library szükséges.
-```sudo apt-get install libsdl1.2-dev libsdl-gfx1.2-dev libsdl-image1.2-dev libsdl-ttf2.0-dev libsdl-mixer1.2-dev```
+```
+sudo apt-get install libsdl1.2-dev libsdl-gfx1.2-dev libsdl-image1.2-dev libsdl-ttf2.0-dev libsdl-mixer1.2-dev
+```
+
 Fordítás (gyökérkönyvtárból):
-```gcc src/*.c -o main `sdl-config --cflags --libs` -lSDL_gfx -lSDL_ttf -lSDL_image -lSDL_mixer -lm```
+```
+gcc src/*.c -o main `sdl-config --cflags --libs` -lSDL_gfx -lSDL_ttf -lSDL_image -lSDL_mixer -lm
+```
