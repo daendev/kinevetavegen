@@ -11,3 +11,11 @@ Fordítás (gyökérkönyvtárból):
 ```
 gcc src/*.c -o main `sdl-config --cflags --libs` -lSDL_gfx -lSDL_ttf -lSDL_image -lSDL_mixer -lm
 ```
+
+### Doksik
+
+ * [Specifikáció](https://drive.google.com/file/d/1BPEMa8lFf7MDAmwCSr6ZSrloymGyCCua/view?usp=sharing)
+ * [Tesztelési dokumentáció](https://drive.google.com/file/d/13TvX5Bp6_FOi-RN4ORit-a-I5Pul6Bah/view?usp=sharing)
+ * [Felhalsználói dokumentáció](https://drive.google.com/file/d/1Kvbf1GCfa8I1iT-qsLuNQd_iv0XBI7IE/view?usp=sharing)
+ 
+ 
