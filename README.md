@@ -1,5 +1,7 @@
 # Ki nevet a végén
-[Ki Nevet A Végén társasjáték](https://hu.wikipedia.org/wiki/Ki_nevet_a_v%C3%A9g%C3%A9n%3F_(t%C3%A1rsasj%C3%A1t%C3%A9k)) C nyelven
+[Ki Nevet A Végén társasjáték](https://hu.wikipedia.org/wiki/Ki_nevet_a_v%C3%A9g%C3%A9n%3F_(t%C3%A1rsasj%C3%A1t%C3%A9k)) C nyelven.
+
+Nagy házi feladat BME-VIK A programozás alapjai 1 tárgyhoz.
 
 ### Fordítás
 A fordításhoz SDL1.2 library szükséges.
